@@ -1,0 +1,28 @@
+#Beginning {
+    align-items: center;
+    width: 50%;
+    margin: 0 auto;
+}
+footer {
+    align-items: center;
+    width: 50%;
+    margin: 0 auto;
+    background-color: yellow;
+}
+body {
+    background-color: purple;
+    width: 40cm;
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#p1 {
+    align-items: center;
+    width: 50%;
+    margin: 0 auto;
+}
+h3 {
+    font: bold; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+button {
+    padding: 0.25cm22}
